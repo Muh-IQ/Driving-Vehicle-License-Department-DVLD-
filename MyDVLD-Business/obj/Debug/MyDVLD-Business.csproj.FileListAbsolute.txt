@@ -1,0 +1,83 @@
+C:\Users\aaaa_\source\repos\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\aaaa_\source\repos\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\aaaa_\source\repos\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\aaaa_\source\repos\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\aaaa_\source\repos\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\aaaa_\source\repos\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\aaaa_\source\repos\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\aaaa_\source\repos\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\aaaa_\source\repos\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\aaaa_\Desktop\DVLD\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\20109\Desktop\New folder\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD_Business.Form1.resources
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CopyComplete
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-B.175ED8F5.Up2Date
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Business.pdb
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-B.175ED8F5.Up2Date
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.dll
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Business\obj\Debug\MyDVLD-Business.pdb

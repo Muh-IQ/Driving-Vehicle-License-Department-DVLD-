@@ -1,0 +1,64 @@
+C:\Users\aaaa_\source\repos\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\aaaa_\source\repos\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\aaaa_\source\repos\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\aaaa_\source\repos\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\aaaa_\source\repos\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\aaaa_\source\repos\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\aaaa_\source\repos\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\aaaa_\source\repos\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\20109\Desktop\New folder\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\20109\Desktop\Jocker Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Jocker new Poject\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Jocker new PojectOld\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\bin\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\bin\Debug\MyDVLD-Data.pdb
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD_Data.Properties.Resources.resources
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.dll
+C:\Users\Asus\Desktop\Back\19 - Full Real Project\DVLD_Muhammad\MyDVLD-Data\obj\Debug\MyDVLD-Data.pdb
